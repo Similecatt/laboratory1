@@ -1,0 +1,9 @@
+ body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; }
+        h1 { color: #2c3e50; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #2c3e50; color: white; }
+        a.button { padding: 6px 12px; text-decoration: none; border-radius: 4px; color: white; font-size: 14px; }
+        a.edit { background-color: #f39c12; }
+        a.delete { background-color: #e74c3c; }
+        a.add { display: inline-block; margin-bottom: 15px; background-color: #27ae60; padding: 10px 16px; }
